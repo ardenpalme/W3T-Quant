@@ -8,9 +8,7 @@ This repo houses jupyter notebooks with strategies to use as a boilerplate for m
 ## Setup 
 ### Basic
 1. Code editor e.g. [VSCode](https://code.visualstudio.com/download)
-2. Terminal:
-   a. (Windows) Install [Powershell7](https://lazyadmin.nl/powershell/install-powershell-7/)
-   b. (Mac) Install [Homebrew](https://brew.sh/)
+2. Terminal: (Windows) Install [Powershell7](https://lazyadmin.nl/powershell/install-powershell-7/) (Mac) Install [Homebrew](https://brew.sh/)
 ### Project
 1. Install `uv` package manager [link](https://docs.astral.sh/uv/getting-started/installation/)
 2. Create and activate environment `uv venv vectorbt` `source vectorbt/bin/activate`
