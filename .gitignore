@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .env
+
+# we do not track any generated data sets to save space in Github repo
+data/
