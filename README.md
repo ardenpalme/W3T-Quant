@@ -22,6 +22,6 @@ Notes: Install missing packages within the virtual env with `uv pip install <pkg
 
 <span style="display: inline-flex; align-items: center; gap: 5%;">
 <img src="images/index-finger-hand-pointing-clip-art.png" style="height: 20px; width: 40px;">
-<div style="font-weight: bold; font-size: 15px;"> Disclaimer: </div>
+<div style="font-weight: font-size: 15px;"> Disclaimer: PLEASE DO NOT DISTRIBUTE THIS CODE </div>
 </span>
-PLEASE DO NOT DISTRIBUTE THIS CODE
+
